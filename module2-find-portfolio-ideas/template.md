@@ -93,4 +93,6 @@ b.) I could look at census data or other forms of data provided by the US govern
 Fill out the above template *twice*, for two different ideas.
   
 Then compare and contrast and select one as the idea you're leaning towards
-working on for your project week.
+working on for your project week.  
+  
+My website: smsinclair.github.io
