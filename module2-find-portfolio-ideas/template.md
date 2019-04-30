@@ -30,11 +30,11 @@ a.) Movie box office revenue by genre over time
 -You could list the most popular genres.  
 -You could rank genres by production expenses.  
   
-b.) How high of an income do you need to be in the top 1% in each state  
--This topic focuses on a geographic variation.
--Income inequality is also a topic that is often discussed in the news.  
--You could investigate demographic data of the top 1% of income earners.  
--You could rank the income required to be at this level in each state.  
+b.) How high of an income do you need to be in the top 1% in each state    
+-This topic focuses on a geographic variation.  
+-Income inequality is also a topic that is often discussed in the news.    
+-You could investigate demographic data of the top 1% of income earners.    
+-You could rank the income required to be at this level in each state.    
   
 1. Geographic Variation
 
