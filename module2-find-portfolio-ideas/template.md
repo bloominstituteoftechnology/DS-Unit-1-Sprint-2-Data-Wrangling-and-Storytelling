@@ -3,7 +3,7 @@
 ## You
 
 What do you care about?
-Freedom, People, Concioussness, Theoretical Physics, Philosphy
+Freedom, People, Concioussness, Theoretical Physics, Philosophy
 
 What do you know about?
 Food, Restaurants/Hotel/College feeding, Human Perception, Exotic states of concioussness 
