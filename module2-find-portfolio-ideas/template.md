@@ -47,17 +47,15 @@ People go to the gym to lose weight
 ## Examples
 
 What data storytelling example inspires you?
-Haven't looked into it Yet
-
+https://fivethirtyeight.com/
 Could you do a new hypothesis, for the same question?
-
+yes
 
 Could you do a new question, for the same topic?
-
+yes
 
 Could you do a new topic, with the same "style"?
-
-
+yes
 ## Data
 
 Where could you search for data about your topic?
