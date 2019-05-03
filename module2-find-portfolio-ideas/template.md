@@ -3,10 +3,10 @@
 ## You
 
 What do you care about?
-
+How Alt Data or Alternative Data can generate insights that influence investors decisions 
 
 What do you know about?
-
+Don't know to much. It's a very new topic for me
 
 What decisions do you face?
 
@@ -30,7 +30,7 @@ Can you apply the templates to your topics?
 
 
 5. Valuable to businesses
-
+Alternative data sets are information about a particular company that is published by sources outside of the company, which can provide unique and timely insights into investment opportunities.
 
 6. What's the most popular?
 
