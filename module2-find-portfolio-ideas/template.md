@@ -4,13 +4,17 @@
 
 What do you care about?
 
-Finding any irregularities that may exist in data. Like things may seem ordinary but some things may not completely add up.
+Ans: Finding any irregularities that may exist in data. Like things may seem ordinary but some things may not completely add up.
 
 What do you know about?
 
-
+- Grouping data together.
+- Changing the way some data is currently being presented into a way that is easier to read and analyze.
+- Plotting data to test any hypothesis that might arise.
 
 What decisions do you face?
+
+Ans: How should the data be structured? What data needs to be grouped together and what should be kept seperate?
 
 
 ## Seven templates
