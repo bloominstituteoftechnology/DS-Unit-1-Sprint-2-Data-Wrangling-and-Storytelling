@@ -41,12 +41,12 @@ Idea 1: Where do the best Super Smash Bros. players in North America reside? How
 
 7. Cost/Money rankings
 
+Idea 2: What game consoles are popular these days? How are the current game consoles faring in the market and how are some complanies faring against other competitors?
+
 
 ## Misconceptions
 
 What misconceptions do people have about your topic?
-
-Idea 2: What game consoles are popular these days? How are the current game consoles faring in the market and how are some complanies faring against other competitors?
 
 
 ## Examples
