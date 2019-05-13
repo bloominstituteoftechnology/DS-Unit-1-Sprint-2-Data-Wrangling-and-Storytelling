@@ -57,6 +57,7 @@ Could you do a new topic, with the same "style"?
 ## Data
 
 Where could you search for data about your topic?
+
 https://www.opensecrets.org/api/admin/index.php?function=user_api_list
 http://bit.ly/1wQ3m6G
 https://www.ers.usda.gov/data-products/county-level-data-sets/download-data/
