@@ -1,0 +1,105 @@
+# Ideas for data storytelling
+
+Idea: Build model to predict prices of art at auction
+
+## You
+
+What do you care about?
+
+I love art and everything in the art world from, museums, galleries, fairs, and auctions. During my darkest and most stressful moments in life art was one of my escapes. When everything around me seemed like it was falling apart, and I desperately needed something to hold on too I found myself turning to museums and galleries as a way to relax and bring everything back into balance.
+
+What do you know about?
+
+I grew up always drawing and painting but somewhere along the way I started chasing the idea of money over all else which lead to down various paths and away from my artistic passions. It wasn’t until recently when life threw me a series of crisis’s that after lots of reflection, I rediscovered my passion and began pursuing a master’s degree in art business. Finally, on a path that aligned with my passions I dove head long into the mysterious high art world learning the ins and outs of the gallery, museum, and auction world. 
+
+
+What decisions do you face?
+
+The art world, especially the high art or fine art world is built on secrecy and insiders who act as gate keepers and taste makers. So, while this air of mystery can be alluring, I found that with a lack of a formal background navigating this strange and beautiful place can be immensely frustrating. 
+
+
+## Seven templates
+
+Training Kit (https://learn.lambdaschool.com/ds/module/recedjanlbpqxic2r) explains the seven templates from Priceonomics.
+
+Can you apply the templates to your topics? 
+
+1. Geographic Variation
+
+The art world is very centralized around a few major cities globally. The largest markets being New York, London and Paris with smaller regional markets are growing like Los Angeles and Dallas in the US.
+
+
+2. Trend related to the news
+
+The art market has seen massive growth in the last decade especially in the contemporary art realm, auction records continue to fall and curators are redefining art history bringing attention to marginalized artist who had been previously overlooked. 
+
+3. Who does that?
+
+The area I'm interested is in using data to predict values of works, there are very few players in this area of the market with lots of smaller companies starting up in the last few year but they have primarily focused on market reports. 
+
+
+4. Answering a question people care about
+
+In this market getting better more accurate valuations would be highly beneficial to many participants from insurance to art back lending to auction houses who routinely use guarantees. A way of more accurately valuing art would provide a very useful risk management tool for many of the market players.
+
+
+5. Valuable to businesses
+
+see above
+
+
+6. What's the most popular?
+
+Who are the most popular artists? What movements and artist should galleries, museums, and auction house focus on? These are important questions that we can better answer today with so much more data that has become available recently.
+
+
+7. Cost/Money rankings
+
+The high end of the contemporary art market is booming, just last year a record was set for the most expensive work sold of a living artist at $90,000,000!!! Looking at the market data and understanding what is happening is critical to the business in this domain and yet so many are lacking in this area.
+
+
+## Misconceptions
+
+What misconceptions do people have about your topic?
+
+What is art? Artist are all starving and there is no money there?
+
+
+## Examples
+
+What data storytelling example inspires you?
+
+About a year and a half ago a painting with some controversy surrounding it thought to be one of the last works in private hands done by Leonardo da Vinci sold at auction for $400,000,000!!! The backstory on this work was amazing, only 10 years before it had sold at auction for $10,000 because it was thought to be done not by Leonardo da Vinci but by a student of his. The owners spent millions restoring it and researching it before trying to sell it for $100,000,000 but weren't able to find a buyer until one eventually was interested at $80,000,000 and that buyer flipped it to a famous collector for $120,000,000. Then the collector had trouble getting it appraised for the amount it was worth looked to sell it and sue the person he bought it from hoping to get back some of the money he had sunk into it only for it to become the most expensive painting every sold.
+
+The part that I found interesting was the research that went into the original purchase and its parallels to the art markets as a whole and then all of the drama.
+
+
+
+Could you do a new hypothesis, for the same question?
+
+The question here and one that surrounds so much in the art world is how do you value art? I have been working on gathering data and building prediction models recently and feel that this is an area that will see significant growth in the coming years.
+
+
+Could you do a new question, for the same topic?
+
+Yes, by focusing on different works or market segments.
+
+
+Could you do a new topic, with the same "style"?
+
+Yes, instead of trying to find a dollar amount or value we could look at the quality of a work and give it a rating 
+
+
+## Data
+
+Where could you search for data about your topic?
+
+There are a few auction price history databases out there but I have already begun collecting data directly from the auction house companies.
+
+
+# Assignment!
+
+Fill out the above template *twice*, for two different ideas.
+
+Then compare and contrast and select one as the idea you're leaning towards
+working on for your project week.

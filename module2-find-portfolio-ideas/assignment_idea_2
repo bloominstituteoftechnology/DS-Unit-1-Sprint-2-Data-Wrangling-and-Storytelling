@@ -1,0 +1,94 @@
+
+# Ideas for data storytelling
+
+Idea: Build a model to predict standing at of soccer teams and use that to predict the next seasons standing once the new season has started.
+
+## You
+
+What do you care about?
+
+Soccer and sports in general have been a huge part of my life and something I am very passionate about.
+
+What do you know about?
+
+I have played, watched and studied the game of soccer for the last 25 years, basically my whole life.
+
+What decisions do you face?
+
+Baseball has set the bar for how data and analysis can be used to change the game. Soccer is getting better and more stats are being used 
+but it still has a long way to go. The big decision is how will I get the data and what areas will I want to focus on.
+
+## Seven templates
+
+Training Kit (https://learn.lambdaschool.com/ds/module/recedjanlbpqxic2r) explains the seven templates from Priceonomics.
+
+Can you apply the templates to your topics? 
+
+1. Geographic Variation
+
+The main area I'm interested in is Europe but there is a lot of differences between style of play in different leagues. 
+
+
+2. Trend related to the news
+English teams are dominating Europe at the moment and have the most money. But the teams who are looking at and analyzing data are clearly setting themselves apart from the rest, having the most money isn't enough.
+
+3. Who does that?
+
+There are a few companies realling pushing the industry forward, statsbomb and opta to name a few.
+
+4. Answering a question people care about
+
+Soccer is the most popular sport in the world, with expected goals and other statistics being developed we are able to see what players really are the best and what teams are getting lucky.
+
+5. Valuable to businesses
+
+Personnel decisions at clubs, betting, etc. there are lots of business applications
+
+
+6. What's the most popular?
+
+Whos the best players? What is the best league? Who's the best team?
+
+7. Cost/Money rankings
+
+Most popular sport in the world with the most valuable franchises in the world. Would be interesting to find who contributes the most on a per dollar basis and what teams get the most bang for their buck.
+
+## Misconceptions
+
+What misconceptions do people have about your topic?
+
+Stats dont tell the whole picture, you cant quantify whats important like effort and passion, the teams with the most money always win.
+
+## Examples
+
+What data storytelling example inspires you?
+
+Money ball and how Billy Bean and sabermetrics revolutionized baseball.
+
+Could you do a new hypothesis, for the same question?
+
+I'm hoping to take this and apply it to soccer instead of baseball. 
+
+
+Could you do a new question, for the same topic?
+
+Yes, instead of looking at individual players from a roster and team building point of view, use stats to look at leagues and which are the best.
+
+
+Could you do a new topic, with the same "style"?
+
+Yes, bring sabermetrics and the work done in baseball to soccer 
+
+
+## Data
+
+Where could you search for data about your topic?
+
+For free data I would use WhoScored.com, ESPN, and the offical stats provided by the leagues. It will take lots of work to aggregate the data though.
+
+# Assignment!
+
+Fill out the above template *twice*, for two different ideas.
+
+Then compare and contrast and select one as the idea you're leaning towards
+working on for your project week.
