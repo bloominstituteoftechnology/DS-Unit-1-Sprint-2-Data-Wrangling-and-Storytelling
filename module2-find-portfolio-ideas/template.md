@@ -1,5 +1,11 @@
 # Ideas for data storytelling
 
+Analyze crime data from London or NYC to find trends and hotspots.
+
+Scrutinize a study on the effects of video games on memory.
+
+Survey the World Bank GHNP dataset for insight on global health trends.
+
 ## You
 
 What do you care about?
