@@ -4,12 +4,35 @@
 
 What do you care about?
 
+1. Music Therapy
+2. Music Listening and Education
+3. Programs for youth that age out of foster care.
+4. Programs that address keeping the family together in child protection.
+5. Programs that help institutionalized children become high functioning adults.
+
+What I want to explore about the topics"
+
+1. How is music used in therapy to address mental health issues in the at-risk youth population?
+2. What parts of the brain are stimulated while listening to music? How can this assist in learning and retaining new information?
+3. How does cps prepare and follow up with youth who age out of the system? Where would someone find funding for a hew program?
+4. What current sop's are in place for dept's of cp to help families break the cycle of losing custody of their children due to
+   a lack of positive parenting role models.
+5. What life/communication skills are children who age out of residential treatment lacking? What programs are available to these young    adults?
 
 What do you know about?
 
+1. Being a youth stuck in the fostercare/rtf system due to parental addiction.
+2. Being a residential counselor
+3. Working in child protection in very different socio-economic counties.
+4. Social Work in general but focused on the at-risk youth population and mental health patients with a dual diagnosis of schizophrenia and addiction.
+5. Program Development
 
 What decisions do you face?
-
+1. Budgeting
+2. Parenting adult children
+3. Funding a new program
+4. Changing careers later in life
+5. Where to focus my attention/what to prioritize.
 
 ## Seven templates
 
@@ -18,7 +41,7 @@ Training Kit (https://learn.lambdaschool.com/ds/module/recedjanlbpqxic2r) explai
 Can you apply the templates to your topics? 
 
 1. Geographic Variation
-
+   
 
 2. Trend related to the news
 
