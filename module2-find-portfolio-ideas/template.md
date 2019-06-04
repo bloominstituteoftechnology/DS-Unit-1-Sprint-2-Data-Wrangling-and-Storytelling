@@ -4,6 +4,9 @@
 
 What do you care about?
 
+- environmental issues
+- economic inequality
+- anthropology
 
 What do you know about?
 
