@@ -3,9 +3,11 @@
 ## You
 
 What do you care about?
+
 Blockchain/Cryptocurrency 
 
 What do you know about?
+
 Blockchain is new method to store data that could be dencetralize. 
 Cryptocurrency is an outcome of blockchain tech that allow humans to digitlize real assets that could be decentralize, new economic model, new gold.
 
