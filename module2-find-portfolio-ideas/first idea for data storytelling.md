@@ -88,6 +88,7 @@ Where could you search for data about your topic?
 
 https://data.world/datasets/cryptocurrency
 https://www.kaiko.com/pages/historical-data
+
 https://www.coinapi.io/
 https://www.kaggle.com/sudalairajkumar/cryptocurrencypricehistory
 
