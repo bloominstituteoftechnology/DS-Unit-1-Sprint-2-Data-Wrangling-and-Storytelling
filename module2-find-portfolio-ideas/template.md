@@ -3,7 +3,7 @@
 ## You
 
 What do you care about?
-
+Technology, 
 
 What do you know about?
 
@@ -18,25 +18,26 @@ Training Kit (https://learn.lambdaschool.com/ds/module/recedjanlbpqxic2r) explai
 Can you apply the templates to your topics? 
 
 1. Geographic Variation
-
+  * Technology: Where in the world do people have the most devices(phone, tablet, tv, smart watch)
 
 2. Trend related to the news
 
 
 3. Who does that?
-
+  * How long does the average person spend on a device
 
 4. Answering a question people care about
+  * How much the average person spends on electronics in their lifetime
 
 
 5. Valuable to businesses
-
+  * Technology: Find
 
 6. What's the most popular?
-
+  * Technology: What is the top 10 most popular devices
 
 7. Cost/Money rankings
-
+  * Technology: What is the most expensive tech device
 
 ## Misconceptions
 
