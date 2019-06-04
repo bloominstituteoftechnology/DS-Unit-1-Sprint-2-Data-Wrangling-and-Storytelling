@@ -65,21 +65,31 @@ Only used for criminal activities, people trying to steal your money, hacking, s
 
 ## Examples
 
-What data storytelling example inspires you?
+What data storytelling example inspires you? 
+
+https://medium.com/@nic__carter/visions-of-bitcoin-4b7b7cbcd24c
 
 
 Could you do a new hypothesis, for the same question?
 
+dont think so
 
 Could you do a new question, for the same topic?
 
+yes, should you invest?
 
 Could you do a new topic, with the same "style"?
 
+Is it safe?
 
 ## Data
 
 Where could you search for data about your topic?
+
+https://data.world/datasets/cryptocurrency
+https://www.kaiko.com/pages/historical-data
+https://www.coinapi.io/
+https://www.kaggle.com/sudalairajkumar/cryptocurrencypricehistory
 
 
 # Assignment!
