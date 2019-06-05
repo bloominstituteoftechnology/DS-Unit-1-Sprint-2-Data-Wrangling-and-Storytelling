@@ -2,6 +2,8 @@
 
 ## You
 
+*command line test push
+
 What do you care about?
 Outdoors, Travel, Food, Beer, Wine, Painting miniatures, Fishing, Learning, Curiosity, Happiness and wellbeing, Mindfullness, Philosophy, Progression, (positive)Social Connectivity, Honesty, ... 
 
