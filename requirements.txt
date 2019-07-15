@@ -6,3 +6,6 @@ nltk
 scikit-learn
 bs4
 scipy
+plotly
+plotly_express
+bokeh
