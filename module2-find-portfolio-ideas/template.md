@@ -40,22 +40,23 @@ Can you apply the templates to your topics?
 
     **eSports: Does complaining negativley effect your tournament results**
     
-    **Physics: should you invest in solar for your own home? cost analyasis panel/instilation cost vs availalbe sunlight space**
+    **Physics: Should you invest in solar for your own home? panel/instilation cost vs availalbe sunlight space**
 
 5. Valuable to businesses
 
     **eSports: do sponsorships effect sales in the target demagraphic, and how important is tournament placing compared to          online presence when it comes to sponsorship results**
     
-    **Physics: is it worth upgrading to more energy efficient appliance? cost vs use, should you invest in solar?**
+    **Physics: is it worth upgrading to more energy efficient appliances? cost vs use. Should you invest in solar?**
 
 6. What's the most popular?
 
-    **eSports: most popular eSport by tournament entrants, active players, tournament prize pool, twitch viewing, or advertisement revenue**
+    **eSports: Most popular eSport by tournament entrants, active players, tournament prize pool, twitch viewing, or advertisement revenue**
 
 7. Cost/Money rankings
 
     **eSports: Does tournament infrustructure investment(consoles, tvs, game copies) coralate to the popularity of the game.**
-    **Physics: 
+    
+    **Physics: Which renewable energy source is the most cost efficient/what is the carbon foorprint of that source.**
 
 ## Misconceptions
 
@@ -83,7 +84,7 @@ Where could you search for data about your topic?
 
    **Renewable Energy: Really anywhere that offers free datasets has some on this topic**
    
-   **Astronomy: I can get data from my research professor if he is willing to let me continue working on the project**
+   **Astronomy: I can get data from my research professor if he is willing to let me continue working on the project now that I have graduated**
    
    **eSports: Hard to find, most datasets are behind paywalls or about games I don't care about**
 
