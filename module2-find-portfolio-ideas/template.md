@@ -2,13 +2,13 @@
 
 ## You
 
-What do you care about?
+What do you care about? - I care about NBA Basketball.
 
 
-What do you know about?
+What do you know about? - I know a lot about the history of NBA Basketball.
 
 
-What decisions do you face?
+What decisions do you face? - I'm faced with the decision of how to properly classify NBA basketball players based on characteristics of their play
 
 
 ## Seven templates
@@ -17,25 +17,25 @@ Training Kit (https://learn.lambdaschool.com/ds/module/recedjanlbpqxic2r) explai
 
 Can you apply the templates to your topics? 
 
-1. Geographic Variation
+1. Geographic Variation - Yes, an analysis of NBA player charatersistics could be applied to basketball leagues at all levels all around the world
 
 
-2. Trend related to the news
+2. Trend related to the news - Yes, the NBA is practically a 12 month sport.  Having data to maximize an NBA team's potential efficiency is largely tied to their popularity and market value.
 
 
-3. Who does that?
+3. Who does that? - The NBA league, as well as its individual franchises, have entire statistics departments devoted to advanced analytics.  If such a dataset is chosen, my potential project will deal with a small subset of these advanced analytics - comparing modern vs traditional player position classifications.
 
 
-4. Answering a question people care about
+4. Answering a question people care about - I would like to answer the question: "Is there a benefit to classifying player postions by a more modern criteria than the traditional system?"
 
 
-5. Valuable to businesses
+5. Valuable to businesses - See #2
 
 
-6. What's the most popular?
+6. What's the most popular? - See #2.  The NBA is very popular.
 
 
-7. Cost/Money rankings
+7. Cost/Money rankings - See #2.
 
 
 ## Misconceptions
