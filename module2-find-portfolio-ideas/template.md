@@ -35,7 +35,7 @@ Can you apply the templates to your topics?
 6. What's the most popular? - See #2.  The NBA is very popular.
 
 
-7. Cost/Money rankings - See #2.
+7. Cost/Money rankings - See #2.  Additionally, players themselves could increase their value by adjusting their game to fit desirable modern position molds.
 
 
 ## Misconceptions
@@ -45,21 +45,21 @@ What misconceptions do people have about your topic?
 
 ## Examples
 
-What data storytelling example inspires you?
+What data storytelling example inspires you? - I was inspired by Tal Wanish's project, published here.  He uses advance data science techniques, but I will use his project as a semi-roadmap to make my own, much smaller hypothesis.
 
 
-Could you do a new hypothesis, for the same question?
+Could you do a new hypothesis, for the same question? - MY hypothesis will be similar but on a much smaller scale.  I am merely looking at modern position classifications, traditional position classifications, and 
 
 
-Could you do a new question, for the same topic?
+Could you do a new question, for the same topic? - Yes, as previously stated I am doing a small variation on a specific subset of data
 
 
-Could you do a new topic, with the same "style"?
+Could you do a new topic, with the same "style"? - I will not be following Tal's style, as his project is much vaster in scope than mine.
 
 
 ## Data
 
-Where could you search for data about your topic?
+Where could you search for data about your topic? - Data could be searched for on Kaggle, GitHub, or the UCI public database
 
 
 
@@ -68,13 +68,13 @@ Where could you search for data about your topic?
 
 ## You
 
-What do you care about?
+What do you care about? - Music
 
 
-What do you know about?
+What do you know about? - trends in rap music/hip-hop
 
 
-What decisions do you face?
+What decisions do you face? - discover what elements of rap music people like and try to incorporate more of it into songs to increase the popularity of the genre.
 
 
 ## Seven templates
