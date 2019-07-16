@@ -14,6 +14,7 @@ What do you know about?
 
 What decisions do you face?
 
+'I'm a student. How can I best show my skills to prospective employers?'
 
 ## Seven templates
 
@@ -74,26 +75,40 @@ Can you apply the templates to your topics?
 
 What misconceptions do people have about your topic?
 
-'Learning Japanese is hard. The train system is too confusing. The trains are always packed like sardines. Travel in Japan is expensive. 
+'Learning Japanese is hard. The train system is too confusing. The trains are always packed like sardines. Travel in Japan is too expensive. I'm screwed if I miss my train'
+
+'All music nowadays sounds the same. Modern guitar players just rip off the old stuff'
 
 
 ## Examples
 
 What data storytelling example inspires you?
 
+"Saw on Twitter: a Lambda School student used data from a bike-sharing app/website and created a beautiful visualization that showed the bokes coming in and out of certain locations. I want to do something similar with Tokyo train data'
+
 
 Could you do a new hypothesis, for the same question?
+
+'Yes. If the data begins to dictate another storyline, then I should be able to pivot.'
 
 
 Could you do a new question, for the same topic?
 
+'Yes. If the data begins to dictate another storyline, then I should be able to pivot.' 
+
 
 Could you do a new topic, with the same "style"?
+
+'I don't see why not?'
 
 
 ## Data
 
 Where could you search for data about your topic?
+
+'https://developer-tokyochallenge.odpt.org/users/sign_in'
+
+'https://developer.spotify.com/documentation/web-api/'
 
 
 # Assignment!
