@@ -4,12 +4,17 @@
 
 What do you care about?
 
+**eSports, Physics(Astronomy, Solar/renewable energy)**
 
 What do you know about?
 
+**eSports & Astrophysics**
 
 What decisions do you face?
 
+**Should I continue to work with astronomy to compliment my degree, or should I do work outside of my degree with datasets closer to what is worked with in common data science jobs?**
+
+**Would working with eSports for my portfolio make me look less professional to employers?**
 
 ## Seven templates
 
@@ -19,6 +24,7 @@ Can you apply the templates to your topics?
 
 1. Geographic Variation
 
+Physics
 
 2. Trend related to the news
 
