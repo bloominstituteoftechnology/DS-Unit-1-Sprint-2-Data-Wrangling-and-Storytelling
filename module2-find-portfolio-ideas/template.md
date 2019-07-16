@@ -24,30 +24,40 @@ Can you apply the templates to your topics?
 
 1. Geographic Variation
 
-Physics
-
+    **Physics: what types of renewable energy can be generated in different geographical regeions**
+    **eSports: does the type of game people play depend on their proximity to a large city?
 2. Trend related to the news
 
+    **Physics: carbon footprint of different energy production/storage/transportation**
 
 3. Who does that?
 
+    **eSports: Age, gender, race of eSports competitors by the game they are playing**
 
 4. Answering a question people care about
 
+    **eSports: Does complaining negativley effect your tournament results**
+    **Physics: should you invest in solar for your own home? cost analyasis panel/instilation cost vs availalbe sunlight space**
 
 5. Valuable to businesses
 
+    **eSports: do sponsorships effect sales in the target demagraphic, and how important is tournament placing compared to          online presence when it comes to sponsorship results**
+    **Physics: is it worth upgrading to more energy efficient appliance? cost vs use, should you invest in solar?**
 
 6. What's the most popular?
 
+    **eSports: most popular eSport by tournament entrants, active players, tournament prize pool, twitch viewing, or advertisement revenue**
 
 7. Cost/Money rankings
 
+    **eSports: Does tournament infrustructure investment(consoles, tvs, game copies) coralate to the popularity of the game.**
+    **Physics: 
 
 ## Misconceptions
 
 What misconceptions do people have about your topic?
 
+    **Video games are a waste of time" not true, actually they can help you learn to: learn, be self critical, improve bad habits, thrive under pressure, understand the importance of practice, etc**
 
 ## Examples
 
