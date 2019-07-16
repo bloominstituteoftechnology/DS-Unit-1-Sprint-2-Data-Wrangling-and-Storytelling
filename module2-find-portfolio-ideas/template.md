@@ -5,13 +5,17 @@
 What do you care about?
 Artifical intelligence in marketing targeting
 
+SECOND: trends in political affiliation
 
 What do you know about?
 target marketing
 
+SECOND:sociology methods
 
 What decisions do you face?
 who, what , when , where  why
+
+SECOND:facing time lapse over several data sets.
 
 ## Seven templates
 
@@ -22,30 +26,43 @@ Can you apply the templates to your topics?
 1. Geographic Variation
 Yes, maps of people to be targeted.
 
+SECOND:yes
 
 2. Trend related to the news
 data privacy
 
+SECOND: yes
+
 3. Who does that?
 what customers buy what
 
+SECOND:who votes
 4. Answering a question people care about
 how big of an issue is data privacy
+
+SECOND:will states flip parties
 
 5. Valuable to businesses
 cost savings in marketing
 
+SECOND:no
+
 6. What's the most popular?
 most popular channel interactions
 
+SECOND:yes, party
 7. Cost/Money rankings
 marketing spending
+
+SECOND:no
 
 
 ## Misconceptions
 
 What misconceptions do people have about your topic?
 randomization hurts customers
+
+SECOND:there are no changing demographics
 
 ## Examples
 
