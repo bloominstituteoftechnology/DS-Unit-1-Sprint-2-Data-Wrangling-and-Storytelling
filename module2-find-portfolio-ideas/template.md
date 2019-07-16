@@ -62,7 +62,9 @@ Can you apply the templates to your topics?
 
 What misconceptions do people have about your topic?
 
-   **Video games are a waste of time" not true, actually they can help you learn to: learn, be self critical, improve bad habits, thrive under pressure, understand the importance of practice, etc**
+   **"Video games are a waste of time"** 
+   
+   **They can help you learn to: learn, be self critical, improve bad habits, thrive under pressure, understand the importance of practice, develop connections, etc**
 
 ## Examples
 
