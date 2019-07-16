@@ -49,26 +49,26 @@ Thinking it's irrelevant and ignore the dataset.
 
 ## Examples
 
-What data storytelling example inspires you?
+What data storytelling example inspires you?  
 Read story about 311 New York dataset from wired
 
-Could you do a new hypothesis, for the same question?
+Could you do a new hypothesis, for the same question?  
 Yes
 
-Could you do a new question, for the same topic?
+Could you do a new question, for the same topic?  
 Yes
 
-Could you do a new topic, with the same "style"?
+Could you do a new topic, with the same "style"?  
 Yes
 
 ## Data
 
-Where could you search for data about your topic?
+Where could you search for data about your topic?  
 https://data.austintexas.gov/
 
 # Assignment!
 
-Fill out the above template *twice*, for two different ideas.
+Fill out the above template *twice*, for two different ideas.  
 
 Then compare and contrast and select one as the idea you're leaning towards
 working on for your project week.
