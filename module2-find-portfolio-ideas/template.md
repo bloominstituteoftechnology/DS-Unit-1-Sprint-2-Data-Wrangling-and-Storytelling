@@ -3,12 +3,15 @@
 ## You
 
 What do you care about?
+I care about facts, medicine and animals. 
 
 
 What do you know about?
+Medicine and computers. Student debt and the impacts it has on people
 
 
 What decisions do you face?
+how to analyze and display the data/results. 
 
 
 ## Seven templates
@@ -18,13 +21,13 @@ Training Kit (https://learn.lambdaschool.com/ds/module/recedjanlbpqxic2r) explai
 Can you apply the templates to your topics? 
 
 1. Geographic Variation
-
+I could apply this to my data, but I am trying to focus more on the US. maybe towards the end I could see marriage rates and debt vs other countries as well.
 
 2. Trend related to the news
-
+this could apply based on presidential election platforms for free college
 
 3. Who does that?
-
+this can't apply, because my topic is too specific
 
 4. Answering a question people care about
 
