@@ -81,6 +81,12 @@ Could you do a new topic, with the same "style"?
 
 Where could you search for data about your topic?
 
+   **Renewable Energy: Really anywhere that offers free datasets has some on this topic**
+   
+   **Astronomy: I can get data from my research professor if he is willing to let me continue working on the project**
+   
+   **eSports: Hard to find, most datasets are behind paywalls or about games I don't care about**
+
 
 # Assignment!
 
