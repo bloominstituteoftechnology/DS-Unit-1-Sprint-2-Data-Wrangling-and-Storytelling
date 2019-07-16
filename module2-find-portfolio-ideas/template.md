@@ -24,17 +24,17 @@ Can you apply the templates to your topics?
 
 1. Geographic Variation
 
-    **Physics: what types of renewable energy can be generated in different geographical regeions**
+    **Physics: What types of renewable energy is most efficient in different geographical regions**
     
-    **eSports: does the type of game people play depend on their proximity to a large city?**
+    **eSports: Does the genre of game people play depend on their proximity to a large city?**
     
 2. Trend related to the news
 
-    **Physics: carbon footprint of different energy production/storage/transportation**
+    **Physics: Carbon footprint of the production/storage/transportation for different renewable resources**
 
 3. Who does that?
 
-    **eSports: Age, gender, race of eSports competitors by the game they are playing**
+    **eSports: Demoraphics of eSports competitors by the game they are playing**
 
 4. Answering a question people care about
 
@@ -44,9 +44,9 @@ Can you apply the templates to your topics?
 
 5. Valuable to businesses
 
-    **eSports: do sponsorships effect sales in the target demagraphic, and how important is tournament placing compared to          online presence when it comes to sponsorship results**
+    **eSports: Do player sponsorships effect sales in the target demagraphic, and how important is tournament placing compared to          online presence when it comes to the effectivness of a sponsorship**
     
-    **Physics: is it worth upgrading to more energy efficient appliances? cost vs use. Should you invest in solar?**
+    **Physics: Is it worth upgrading to more energy efficient appliances? Cost vs use. Should you invest in solar?**
 
 6. What's the most popular?
 
