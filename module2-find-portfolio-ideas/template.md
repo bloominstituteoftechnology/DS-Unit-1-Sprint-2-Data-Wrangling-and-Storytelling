@@ -70,6 +70,7 @@ What misconceptions do people have about your topic?
 
 What data storytelling example inspires you?
 
+https://medium.com/@rickclayton_6118/watery-data-science-project-75275efdd157
 
 Could you do a new hypothesis, for the same question?
 
@@ -78,6 +79,8 @@ Could you do a new question, for the same topic?
 
 
 Could you do a new topic, with the same "style"?
+
+   **I could map solar farms and change the color of the dots based on the energy they produce**
 
 
 ## Data
