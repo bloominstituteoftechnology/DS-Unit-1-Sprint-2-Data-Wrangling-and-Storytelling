@@ -100,3 +100,5 @@ Fill out the above template *twice*, for two different ideas.
 
 Then compare and contrast and select one as the idea you're leaning towards
 working on for your project week.
+
+   **I can not obtain eSports Datasets for the questions I want to ask, and I won't have acess to Astrophysics datasets in time for this project. I will stick with renewable energy and I will attempt to come up with a question I can answer with datsets I have found.**
