@@ -1,0 +1,11 @@
+pandas==0.23.4
+numpy
+matplotlib
+seaborn
+nltk
+scikit-learn
+bs4
+scipy
+plotly
+plotly_express
+bokeh
