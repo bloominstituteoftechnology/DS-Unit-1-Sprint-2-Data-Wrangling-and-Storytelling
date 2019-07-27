@@ -65,6 +65,7 @@ The projects may produce results that do no meet common perceptions
 
 What data storytelling example inspires you?
 
+The blog about net neutrality.
 
 Could you do a new hypothesis, for the same question?
 
