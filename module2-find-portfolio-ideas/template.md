@@ -48,6 +48,10 @@ Can you apply the templates to your topics?
 
 What misconceptions do people have about your topic?
 
+₿) "Cryptocurrencies are just for breaking the law, not for any *legitimate* purpose."
+    Cryptocurrencies are useful whenever parties want a means of coordinating without a third party, not just moving money without oversight. Cash is a safer choice than bitcoin for your anonymity. Moreover, there are third parties to circumvent other than the law - credit rating agencies, insurers, social networks... the list goes on. 
+    
+₿) 
 
 ## Examples
 
