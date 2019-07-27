@@ -2,14 +2,17 @@
 
 ## You
 
-What do you care about?
+### What do you care about?
 
+₿) Bitcoin! And blockchain technology in general, as a means of solving coordination problems without having trusted authorities as a point of failure.
 
-What do you know about?
+### What do you know about?
 
+₿) Cryptocurrencies in general, the general structure of blockchain protocols, and the different blockchain products currently available to the public.
 
-What decisions do you face?
+### What decisions do you face?
 
+₿) Choosing which product or project to invest or participate in within the space of blockchain projects is kind of fraught. If I buy bitcoin, am I just buying the oldest and least developed of the available protocols? If I buy an alt, am I just buying bitcoin with higher volatility? Measuring relative correlation brings valuable information to bear on this question.
 
 ## Seven templates
 
@@ -22,6 +25,7 @@ Can you apply the templates to your topics?
 
 2. Trend related to the news
 
+₿) Whenever there's been a big runup or crash the news has been happy to comment. And Bloomberg tends to make a comment whenever there's a notable movement.
 
 3. Who does that?
 
@@ -34,9 +38,11 @@ Can you apply the templates to your topics?
 
 6. What's the most popular?
 
+₿) This certainly has a place in the discussion of relative correlation/anticorrelation and who's leading who.
 
 7. Cost/Money rankings
 
+₿) Pretty self-explanatory. Will I be better off just buying bitcoin or looking for an alt?
 
 ## Misconceptions
 
