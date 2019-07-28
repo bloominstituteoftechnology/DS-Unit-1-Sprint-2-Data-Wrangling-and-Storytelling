@@ -73,6 +73,7 @@ What misconceptions do people have about your topic?
 
 What data storytelling example inspires you?
 
+Bloomberg's [stories](https://www.bloomberg.com/graphics/2019-minimum-wage-increase-inflation/?srnd=premium) tend to have great, interactive data visualizations.
 
 Could you do a new hypothesis, for the same question?
 
