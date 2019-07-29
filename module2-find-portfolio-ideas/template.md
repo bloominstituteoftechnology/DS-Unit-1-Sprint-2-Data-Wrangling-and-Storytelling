@@ -77,12 +77,15 @@ Bloomberg's [stories](https://www.bloomberg.com/graphics/2019-minimum-wage-incre
 
 Could you do a new hypothesis, for the same question?
 
+Rejecting the hypothesis would be saying something like "increases to the minimum wage aren't actually being eaten away by inflation" which would be quite hard to justify.
 
 Could you do a new question, for the same topic?
 
+Sure, something along the lines of whether or not the minimum wage increases labor-capital substitution or labor-labor substitution might be feasible.
 
 Could you do a new topic, with the same "style"?
 
+Sure - it might be quite interesting to do something on the real value in debt of student loans being eaten away by inflation.
 
 ## Data
 
