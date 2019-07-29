@@ -8,13 +8,12 @@ What do you care about?
 3) Growing population effect on environment, socity
 4) growing rate of viral and bacterial infection in toddler
 5) Effect of social media on personal relationship
-6) I like buying product on great deal
-   a) who is selling product on low price?
-   b) when is the time to get product on sell?
-   c) which is the lowest price of the products?
-   d)why they sell product on deal
+6) Why Online Shoppers See Different Prices for the Same Item 
 What do you know about?
-1)
+  a) who is selling product on low price?
+  b) when is the time to get product on sell?
+  c) which is the lowest price of the products?
+  d)why they sell product on deal
 
 What decisions do you face?
 
@@ -26,7 +25,7 @@ Training Kit (https://learn.lambdaschool.com/ds/module/recedjanlbpqxic2r) explai
 Can you apply the templates to your topics? 
 
 1. Geographic Variation
-   a) states where selling of the products is low
+   a) sites where selling of the products is low
    b)states where selling of the products is low
 2. Trend related to the news
     a) how immigrants affect selling of the product
@@ -68,7 +67,7 @@ Could you do a new topic, with the same "style"?
 ## Data
 
 Where could you search for data about your topic?
-
+slickdeals, camelcamelcamel.com
 
 # Assignment!
 
