@@ -3,19 +3,21 @@
 ## You
 
 What do you care about?
-1) Terrorist attack on innocent people
-2) Growing rate of cancer in women
-3) Growing population effect on environment, socity
-4) growing rate of viral and bacterial infection in toddler
-5) Effect of social media on personal relationship
-6) Why Online Shoppers See Different Prices for the Same Item 
+1) Why Online Shoppers See Different Prices for the Same Item 
+2) Terrorist attack on innocent people
+3) Growing rate of cancer in women
+4) Growing population effect on environment, socity
+5) growing rate of viral and bacterial infection in toddler
+6) Effect of social media on personal relationship
+
 What do you know about?
-  a) who is selling product on low price?
+ when i do the google search about  the price of product i am intrested in. I find variation in the prices of the same product.
+ 
+What decisions do you face?
+a) who is selling product on low price?
   b) when is the time to get product on sell?
   c) which is the lowest price of the products?
   d)why they sell product on deal
-
-What decisions do you face?
 
 
 ## Seven templates
