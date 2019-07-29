@@ -41,25 +41,26 @@ Which mental health treatments are most expensive? Which neighborhood revitaliza
 
 What misconceptions do people have about your topic?
 Many people assume all forms of anxiety and depression are based on chemical imbalances rather than neruoses formed from early childhood, which deems all treatment to be based on symptom alleviation.
+In other words, many scientists see mental health as a problem of the agency of the indivdiual, rather than a combination of personal brain chemistry and structural shortcomings of society and community or lack thereof.
 
 ## Examples
 
 What data storytelling example inspires you?
-
+Eric Klilenberg wrote a book called "Heat Wave," which tells the story of the 1995 Chicago heatwave. He determined that demographics determined the geography of survival rates. His data indicated that some of the strongest factor to determine the survival rate of a neighborhood was not race or class, but strength of community.
 
 Could you do a new hypothesis, for the same question?
-
+Another hypothesis for my question "How do class and occupation affect mental health of individuals in New York City?" is that access to mental health professionals is the only factor that affects mental health. 
 
 Could you do a new question, for the same topic?
-
+"How does access to mental health support in a local community affect the rates of anxiety and depression in the neighborhood?
 
 Could you do a new topic, with the same "style"?
-
+Food deserts and physical health.
 
 ## Data
 
 Where could you search for data about your topic?
-
+I will be looking at .SAS databases provided by the City of New York.
 
 # Assignment!
 
