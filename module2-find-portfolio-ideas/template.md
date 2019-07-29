@@ -3,14 +3,13 @@
 ## You
 
 What do you care about?
-
+I care about social studies, especially geography, sociology, and psychology.
 
 What do you know about?
-
+I have taken several college classes on Geography and Urban Studies, and I have been reading a lot of classic Psychology books recently.
 
 What decisions do you face?
-
-
+I think an important question to pursue in psychology is whether depression/anxiety sources from chemical imbalance or existential angst. I think finding patterns between socio-economics and mental health will determine the nature of existential health in the United States.
 ## Seven templates
 
 Training Kit (https://learn.lambdaschool.com/ds/module/recedjanlbpqxic2r) explains the seven templates from Priceonomics.
@@ -18,30 +17,30 @@ Training Kit (https://learn.lambdaschool.com/ds/module/recedjanlbpqxic2r) explai
 Can you apply the templates to your topics? 
 
 1. Geographic Variation
-
+How does mental health differ among regions of different racial/socio-economic backgrounds?
 
 2. Trend related to the news
-
+Which attribtutes factor into the obesity epidemic in America? How can we predict obesity in children?
 
 3. Who does that?
-
+Which people are most likely to develop mental heatlh disorders such as anxiety and depression?
 
 4. Answering a question people care about
-
+Can we prove the age of anxiety with big data?
 
 5. Valuable to businesses
-
+How does mental health affect productivity in the workplace?
 
 6. What's the most popular?
-
+What is the most popular coping mechanism for existential angst?
 
 7. Cost/Money rankings
-
+Which mental health treatments are most expensive? Which neighborhood revitalization tools are most cost effective?
 
 ## Misconceptions
 
 What misconceptions do people have about your topic?
-
+Many people assume all forms of anxiety and depression are based on chemical imbalances rather than neruoses formed from early childhood, which deems all treatment to be based on symptom alleviation.
 
 ## Examples
 
