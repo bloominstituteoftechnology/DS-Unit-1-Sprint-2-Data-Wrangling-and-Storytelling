@@ -55,4 +55,4 @@ Where could you search for data about your topic?
 
 # Assignment!
 
-It's difficult to decide on a topic at this point. Maybe leaning towards Friends, though.
+It's difficult to decide on a topic at this point. Maybe leaning towards Friends, though, or the environmental predictions.
