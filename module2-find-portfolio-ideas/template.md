@@ -9,8 +9,9 @@ What do you care about?
 4) Growing population effect on environment, socity
 5) growing rate of viral and bacterial infection in toddler
 6) Effect of social media on personal relationship
-
+7) Scam on facebook marketplace
 What do you know about?
+
  when i do the google search about  the price of product i am intrested in. I find variation in the prices of the same product.
  
 What decisions do you face?
