@@ -4,12 +4,13 @@
 
 What do you care about?
 1) Why Online Shoppers See Different Prices for the Same Item 
-2) Terrorist attack on innocent people
+2)Scam on facebook marketplace
 3) Growing rate of cancer in women
 4) Growing population effect on environment, socity
 5) growing rate of viral and bacterial infection in toddler
 6) Effect of social media on personal relationship
-7) Scam on facebook marketplace
+7)  Terrorist attacks on innocent people
+
 What do you know about?
 
  when i do the google search about  the price of product i am intrested in.
@@ -39,7 +40,7 @@ Can you apply the templates to your topics?
     a) how immigrants affect selling of the product
 
 3. Who does that?
-
+In my experience walmart sell product on low price compare to other vendor
 
 4. Answering a question people care about
 
@@ -57,7 +58,7 @@ Finding the lowest price of the product is gonna save your money
 
 What misconceptions do people have about your topic?
 Prices of a perticular product are nearly same on different online sites
-
+people get cheaper product on ebay
 ## Examples
 
 What data storytelling example inspires you?
