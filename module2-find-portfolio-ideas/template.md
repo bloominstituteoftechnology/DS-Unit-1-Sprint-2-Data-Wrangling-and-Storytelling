@@ -46,17 +46,17 @@ Can you apply the templates to your topics?
 
 
 7. Cost/Money rankings
-
+Finding the lowest price of the product is gonna save your money
 
 ## Misconceptions
 
 What misconceptions do people have about your topic?
-
+Prices of a perticular product are nearly same on different online sites
 
 ## Examples
 
 What data storytelling example inspires you?
-
+I read a storytelling project 'More than a Million Pro-Repeal Net Neutrality Comments were Likely Faked'
 
 Could you do a new hypothesis, for the same question?
 
