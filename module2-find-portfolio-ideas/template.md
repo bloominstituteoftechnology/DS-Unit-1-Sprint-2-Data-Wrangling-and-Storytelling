@@ -76,7 +76,7 @@ Could you do a new topic, with the same "style"?
 ## Data
 
 Where could you search for data about your topic?
-slickdeals, camelcamelcamel.com
+slickdeals, camelcamelcamel.com, amazon api,
 
 # Assignment!
 
