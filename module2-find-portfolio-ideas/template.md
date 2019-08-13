@@ -66,7 +66,7 @@ maybe
 ## Data
 
 Where could you search for data about your topic?
-
+on a variety of websites
 
 # Assignment!
 
