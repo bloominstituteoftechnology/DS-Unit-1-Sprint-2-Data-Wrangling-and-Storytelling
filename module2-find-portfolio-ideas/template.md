@@ -4,11 +4,27 @@
 
 What do you care about?
 
+- Video/film
+- Cultural evolution
+- Applied epistemology
+- Alternative education
+- AI risk
+- Video Games
+
 
 What do you know about?
 
+- Video/film
+- Economics
+- Politics
+- Classical education
+- Philosophy
 
 What decisions do you face?
+
+- What to read next?
+- How to specialize in Data Science?
+- How to prioritize my learning (follows from above)
 
 
 ## Seven templates
