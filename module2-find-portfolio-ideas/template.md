@@ -69,16 +69,15 @@ What misconceptions do people have about your topic?
 ## Examples
 
 What data storytelling example inspires you?
-A lot of stuff from SlateStarCodex.com and Gwern.net. I can't think of an example at the moment but I'll find one.
+- A lot of stuff from SlateStarCodex.com:  https://slatestarcodex.com/2019/05/14/age-gaps-and-birth-order-effects/
 
 Could you do a new hypothesis, for the same question?
-
+- Check the general distribution of sibling ages. It probably differs significantly from the one shown in his results.
 
 Could you do a new question, for the same topic?
-
+- Does personality correlate with birth order?
 
 Could you do a new topic, with the same "style"?
-
 
 ## Data
 
