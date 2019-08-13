@@ -12,7 +12,7 @@ Foundations of Mathematics and Programming languages, a little Japanese, many di
 
 * What decisions do you face?
 
-Personal finacial/investment decisions.
+Personal financial/investment decisions.
 
 ## Seven templates
 
@@ -22,7 +22,7 @@ Can you apply the templates to your topics?
 
 1. Geographic Variation
 
-Distrobution of linguistic structures across regions.
+Distribution of linguistic structures across regions.
 Focus of research topics in mathematics across regions.
 Popularity of different languages by place.
 
@@ -40,7 +40,7 @@ Demographics across different fields of mathematics/linguistics.
 
 5. Valuable to businesses
 
-If at all, how much additional income/savings for buisinesses can be attributed to switching from one programming language to another.
+If at all, how much additional income/savings for businesses can be attributed to switching from one programming language to another.
 
 6. What's the most popular?
 
@@ -54,9 +54,9 @@ Most popular programming language over time
 
 * What misconceptions do people have about your topic?
 
-That mathematics is about numbers. That there is a single, cannonical foundation for mathematics.
+That mathematics is about numbers. That there is a single, canonical foundation for mathematics.
 
-That every programming language is bassically the same with different syntax (this is only kind of true within paradigms, but utterly untrue across)
+That every programming language is basically the same with different syntax (this is only kind of true within paradigms, but utterly untrue across)
 
 ## Examples
 
@@ -88,7 +88,7 @@ It provides a few examples of some of the more common ways of graphing categoric
 
 * Where could you search for data about your topic?
 
-I *did* find my data by on data.world by searchign for "language difficulty rating dataset". My other dataset was find by remembering the World Atlas of Language Structures, and searching for its database as a downloadable file.
+I *did* find my data by on data.world by searching for "language difficulty rating dataset". My other dataset was found by remembering the World Atlas of Language Structures, and searching for its database as a downloadable file.
 
 # Assignment!
 
