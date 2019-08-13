@@ -4,9 +4,10 @@
 
 What do you care about?
 
+I care about the health of the human population, Paticularly how tech can evolve humans biologically
 
 What do you know about?
-
+I know about biology ideas 
 
 What decisions do you face?
 
