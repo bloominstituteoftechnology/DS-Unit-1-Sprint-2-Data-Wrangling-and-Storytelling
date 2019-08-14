@@ -2,6 +2,8 @@
 
 ## You
 
+**(github personal website: lucguittard.github.io)** 
+
 What do you care about? 
 Politics (public engagement/participation in the process), nutrition (at the macro-nutrient level), science fiction and its presence in public discourse
 
