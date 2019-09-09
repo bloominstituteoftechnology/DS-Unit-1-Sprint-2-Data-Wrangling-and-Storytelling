@@ -75,7 +75,7 @@ get_ipython().system('head instacart_2017_05_01/*.csv -n 3')
 import pandas
 order_products__prior = pandas.read_csv('instacart_2017_05_01/order_products__prior.csv')
 order_products__train = pandas.read_csv('instacart_2017_05_01/order_products__train.csv')
-order_products = pd.concat([order_products__prior, order_products__train])
+order_products = pandas.concat([order_products__prior, order_products__train])
 orders = pandas.read_csv('instacart_2017_05_01/orders.csv')
 products = pandas.read_csv('instacart_2017_05_01/products.csv')
 
@@ -186,7 +186,8 @@ flights.pivot_table(
 # - Replicate parts of the blog post linked at the top of this notebook: [Modern Pandas, Part 5: Tidy Data](https://tomaugspurger.github.io/modern-5-tidy.html)
 
 #%%
-recent_orders = orders.sort_values('order_id', ascending=False).groupby(['user_id']).first()
+recent_orders = orders.sort_values('order_id', ascending=False).groupby(['user_id']).first().reset_index()
+# Reset the index so we can preserve user_id post-merge
 
 recent_orders_products = pandas.merge(recent_orders,
 									pandas.merge(order_products,
@@ -198,5 +199,3 @@ recent_orders_products = pandas.merge(recent_orders,
 
 recent_orders_products.head(20)
 
-
-#%%
