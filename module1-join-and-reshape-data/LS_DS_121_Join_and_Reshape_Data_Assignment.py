@@ -34,23 +34,18 @@ except:
 
 #%%
 get_ipython().system('rm instacart_2017_05_01/*')
-#get_ipython().system('wget -O instacart_online_grocery_shopping_2017_05_01.tar.gz https://s3.amazonaws.com/instacart-datasets/instacart_online_grocery_shopping_2017_05_01.tar.gz')
+get_ipython().system('wget -N https://s3.amazonaws.com/instacart-datasets/instacart_online_grocery_shopping_2017_05_01.tar.gz')
 
 
 #%%
-get_ipython().system('tar -xzfv instacart_online_grocery_shopping_2017_05_01.tar.gz')
+get_ipython().system('tar -xzvf instacart_online_grocery_shopping_2017_05_01.tar.gz')
+
+#%%
+get_ipython().system('ls instacart_2017_05_01 -Alh')
 
 
 #%%
-get_ipython().run_line_magic('cd', 'instacart_2017_05_01')
-
-
-#%%
-get_ipython().system('ls -Alh')
-
-
-#%%
-get_ipython().system('head *.csv -n 3')
+get_ipython().system('head instacart_2017_05_01/*.csv -n 3')
 
 #%% [markdown]
 # # Assignment
@@ -78,9 +73,9 @@ get_ipython().system('head *.csv -n 3')
 
 #%%
 import pandas
-order_products = pandas.read_csv('order_products__prior.csv')
-orders = pandas.read_csv('orders.csv')
-products = pandas.read_csv('products.csv')
+order_products = pandas.read_csv('instacart_2017_05_01/order_products__prior.csv')
+orders = pandas.read_csv('instacart_2017_05_01/orders.csv')
+products = pandas.read_csv('instacart_2017_05_01/products.csv')
 
 order_columns = ['order_id', 'order_hour_of_day']
 product_columns = ['product_id', 'product_name']
@@ -149,7 +144,11 @@ flights.head(30)
 
 
 #%%
-##### YOUR CODE HERE #####
+flights.pivot_table(
+					index='year',
+					columns='month',
+					values='passengers'
+					)
 
 #%% [markdown]
 # ## Join Data Stretch Challenge
