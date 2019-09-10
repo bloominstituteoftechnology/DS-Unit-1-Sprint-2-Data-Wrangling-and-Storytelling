@@ -3,13 +3,15 @@
 ## You
 
 What do you care about?
-
+Saving money
 
 What do you know about?
-
+Electronics - ligting
 
 What decisions do you face?
-
+interior lighting
+exterior lighting
+street lightingh
 
 ## Seven templates
 
@@ -17,26 +19,23 @@ Training Kit (https://learn.lambdaschool.com/ds/module/recedjanlbpqxic2r) explai
 
 Can you apply the templates to your topics? 
 
-1. Geographic Variation
+# Ideas for data storytelling
+Light bulbs
+## You
 
+What do you care about?
+I care about lowering my electric bill.
+What do you know about?
+I took a class in college, in interior lighting
+and designed my own lamp. Don’t know where it went though.
+What decisions do you face?
+stop lights/accidents,
+street lighting/crime,
+exterior home/security,
+interior lighting/economy
+## Seven templates
 
-2. Trend related to the news
-
-
-3. Who does that?
-
-
-4. Answering a question people care about
-
-
-5. Valuable to businesses
-
-
-6. What's the most popular?
-
-
-7. Cost/Money rankings
-
+I am currently goin over the seven templates
 
 ## Misconceptions
 
