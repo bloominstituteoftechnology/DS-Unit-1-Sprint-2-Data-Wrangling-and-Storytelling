@@ -102,7 +102,7 @@ What data storytelling example inspires you?
 # For the next question: Spotify storytelling: How Students Listen 2017
 # https://insights.spotify.com/us/2017/05/24/how-students-listen-2017/
 
-# Still I did not find the sotry to inspire me completely, but I hope that can be my own storytelling.
+# Still I did not find the story to inspire me completely, but I hope that can be my own storytelling.
 
 Could you do a new hypothesis, for the same question?
 
