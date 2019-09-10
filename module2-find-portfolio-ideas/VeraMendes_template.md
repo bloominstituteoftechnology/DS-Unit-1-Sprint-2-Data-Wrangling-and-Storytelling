@@ -102,14 +102,17 @@ https://mashable.com/2015/01/12/airbnb-new-year/#Fh8FH3HdOZqY
 For the next question: Spotify storytelling: How Students Listen 2017
 https://insights.spotify.com/us/2017/05/24/how-students-listen-2017/
 
+
 Could you do a new hypothesis, for the same question?
 
 How about looking into this data worlwide and check how are students listening all around the world?
 Could we look into different levels of scholl as High School?
 
+
 Could you do a new question, for the same topic?
 
 What genres of musics are students listening to?
+
 
 Could you do a new topic, with the same "style"?
 
@@ -120,6 +123,7 @@ What are data scientists listening to, while working in projects.
 Where could you search for data about your topic?
 
 I have been looking into different websites I found by search, but it is hard to find data available. Some sites I found were:
+
 https://libraryguides.missouri.edu/c.php?g=213300&p=1407295
 https://www.dataquest.io/blog/free-datasets-for-projects/
 https://www.springboard.com/blog/free-public-data-sets-data-science-project/
