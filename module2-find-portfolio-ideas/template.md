@@ -22,10 +22,15 @@ Training Kit (https://learn.lambdaschool.com/ds/module/recedjanlbpqxic2r) explai
 Can you apply the templates to your topics? 
 
 (Four Projects)
+
 A. AI-Optimized Distaster-Relief Network-Protocol
+
 B. Educational and Institutional Best Practice Metrics and Protocols
+
 C. PT-OT Metrics: image recognition for standardized physical performance evaluation
+
 D. Ocean/Beach Cleanup
+
 Pictures of beaches and debris.
 e.g.
 - identifying where to put images geographically (with or w/o geotagging)
