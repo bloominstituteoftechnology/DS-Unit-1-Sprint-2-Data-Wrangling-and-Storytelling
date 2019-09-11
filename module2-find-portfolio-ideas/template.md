@@ -3,10 +3,10 @@
 ## You
 
 What do you care about?
-nutrition, business, values, human relationships (family, friends, communities), relationship between tech, people and culture, economics, risk
+- Nutrition, business, values, human relationships (family, friends, communities), relationship between tech, people and culture, economics, risk
 
 What do you know about?
-A little about a lot, mostly: nutrition, business, culture
+- A little about a lot, mostly: nutrition, business, culture
 
 What decisions do you face?
 Topics of story I will tell include: most common ingredients (MCI) found in products of mega retail store chains, # of homeschooled (NOHK) kids and outcomes (per state), # of companies (NOC) that grew gradually vs those who followed a power law that dominate market / have attained extremely large value compared to other similar corporations.
@@ -62,7 +62,6 @@ NOHK could be appropiately analyzed with physical variations in mind. Possible v
 With the student loan debt crisis and the general public's negative impression of schools in the US, giving education a lot of attention, information on other options may prove helpful. Outcomes of homeschooled children 10 years from their "graduating" moment could be interesting to look into as well.
 
 3. Who does that?
-n/a
 
 4. Answering a question people care about
 What is the best option for children.
@@ -81,39 +80,23 @@ An average cost (both money and time) per state might be insightful to those int
 What misconceptions do people have about your topic?
 A common misconception that I've heard is that people don't think homeschooling is normal and healthy for children. People think that a child is socially isolated from their peers and may grow to be socially inept. This may be true for children that are homeschooled by incompetent parents/hired-educators that don't understand the importance of socializing. However, the probability that this happens is low, that is assuming, that the educators know what they're are doing since they opted out from traditional education.
 
-## Examples
-
-What data storytelling example inspires you?
-
-
-Could you do a new hypothesis, for the same question?
-
-
-Could you do a new question, for the same topic?
-
-
-Could you do a new topic, with the same "style"?
-
-
 ## Data
 
 Where could you search for data about your topic?
-
-
+There are organizations such as the National Home Education Research Institute, The Coalition for Responsible Home Education, and the National Center for Education Statistics that can provide access to their datasets if asked for it. Some of them include information on other factors such as reasons for homeschooling. I could ask for those as well.
 
 ## Examples
 
 What data storytelling example inspires you?
-
+https://pudding.cool/2018/12/3d-cities-story/
 
 Could you do a new hypothesis, for the same question?
-
+The author/scientist did not seek to answer a hypothesis, he just wanted to give a more explicit and accurate perspective of city populations using 3D
 
 Could you do a new question, for the same topic?
-
+A question that could be interesting to answer is whether these cities would be safe to live in in a couple years. The author mentioned descriptions such as "unplanned growth" and "unchecked urbanisation". Perhaps a search on illness rates in each of these cities would provide more insight into the health of the city and people inhabiting there.
 
 Could you do a new topic, with the same "style"?
-
 
 # Assignment!
 
@@ -121,3 +104,4 @@ Fill out the above template *twice*, for two different ideas.
 
 Then compare and contrast and select one as the idea you're leaning towards
 working on for your project week.
+- I'm leaning most towards doing the nutrition "10 or 20 top ingredients in all products of mega-retail store chains". 1) They can most probably provide more explicit and cleaner information through their APIs, 2) The topic is something that is reasonably "marketable"
