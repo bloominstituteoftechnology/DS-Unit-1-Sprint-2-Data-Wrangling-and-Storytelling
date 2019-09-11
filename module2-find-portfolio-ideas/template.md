@@ -18,6 +18,12 @@ What do you know about?
 What decisions do you face?
 - Which places would I want to move relocate to? Based off of weather, ease of access to work / job oppertunities, etc.
 
+### My Idea(question) and Hypothesis
+1. Does increased Cannabis use show any correlation with increased other substance abuse in teens and young adults as they age?
+    - __Hypothesis__: I propose that increased cannabis use in teens leads to "trying" other drugs, but if increased or started at a later age, decreases likelyhood of "trying" other more harmful drugs.
+2. 
+    -
+
 ## Seven templates
 
 Training Kit (https://learn.lambdaschool.com/ds/module/recedjanlbpqxic2r) explains the seven templates from Priceonomics.
