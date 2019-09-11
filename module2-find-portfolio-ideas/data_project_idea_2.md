@@ -85,7 +85,6 @@ There are many sources of data about books and media. I've found multiple datase
 As far as the current and/or historical sentiment, that could be gathered from social media or from other media-related datasets.
 
 - [GoodReads-books](https://www.kaggle.com/jealousleopard/goodreadsbooks)
-- 
 
 # Assignment!
 
