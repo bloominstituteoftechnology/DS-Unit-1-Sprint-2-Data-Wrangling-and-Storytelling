@@ -22,6 +22,7 @@ Can you apply the templates to your topics?
 3. Who does that? - The Demographics of Modern Games
 
 4. Answering a question people care about - Pokemon Wondertrade: The Generosity of Random Strangers Online
+https://data.world/notgibs/pokemon-wonder-trade-results/workspace/file?filename=Wonder+Trade.csv
 
 5. Valuable to businesses - Collecting Coins on Wall Street: Video Games in the Stock Market
 
