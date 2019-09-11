@@ -6,7 +6,7 @@ What do you care about? - Making people happy
 
 What do you know about? - Video Games
 
-What decisions do you face?
+What decisions do you face? - 
 
 
 ## Seven templates
@@ -19,14 +19,13 @@ Can you apply the templates to your topics?
 
 2. Trend related to the news - Rated M for Mature: How Many Video Games Contain Violence
 
-3. Who does that? - The Demographics of Modern Games
+3. Who does that? - The Demographics of Modern Games https://www.pewinternet.org/dataset/june-2015-gaming-jobs-broadband/
 
-4. Answering a question people care about - Pokemon Wondertrade: The Generosity of Random Strangers Online
-https://data.world/notgibs/pokemon-wonder-trade-results/workspace/file?filename=Wonder+Trade.csv
+4. Answering a question people care about - Pokemon Wondertrade: The Generosity of Random Strangers Online https://data.world/notgibs/pokemon-wonder-trade-results/workspace/file?filename=Wonder+Trade.csv
 
-5. Valuable to businesses - Collecting Coins on Wall Street: Video Games in the Stock Market
+5. Valuable to businesses - Collecting Coins on Wall Street: Video Games in the Stock Market https://www.investorideas.com/GIS/Stock_List.asp https://www.kaggle.com/borismarjanovic/price-volume-data-for-all-us-stocks-etfs
 
-6. What's the most popular? - New High Score! The Best Selling Video Games of All Time (to date)
+6. What's the most popular? - New High Score! The Best Selling Video Games of All Time (to date) https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings
 
 7. Cost/Money rankings - Building a World: What it Takes to Build a Game (employees, time, money)
 
