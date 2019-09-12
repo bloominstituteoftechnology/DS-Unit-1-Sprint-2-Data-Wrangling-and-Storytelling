@@ -2,7 +2,7 @@
 import os
 try:
 	os.chdir(os.path.join(os.getcwd(), 'module3-make-explanatory-visualizations'))
-	print(os.getcwd())
+	#print(os.getcwd())
 except:
 	pass
 #%% [markdown]

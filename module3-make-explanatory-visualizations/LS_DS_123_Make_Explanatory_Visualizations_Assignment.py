@@ -2,7 +2,7 @@
 import os
 try:
 	os.chdir(os.path.join(os.getcwd(), 'module3-make-explanatory-visualizations'))
-	print(os.getcwd())
+	#print(os.getcwd())
 except:
 	pass
 #%% [markdown]
@@ -206,8 +206,8 @@ tenkyTick = subplot.get_yticklabels()[-1]
 tenkyTickTransform = transforms.ScaledTranslation(72/72*dpimult,0,figure.dpi_scale_trans)
 tenkyTick.set_transform(tenkyTick.get_transform()+tenkyTickTransform)
 
-subplot.text(370,6600,'Losing\nscores', fontdict=inline_label_font)
-subplot.text(410,1500,'Winning\nscores', fontdict=inline_label_font)
+subplot.text(370,6600,'Losing\nscores', fontdict=inline_label_font, zorder=67)
+subplot.text(410,1500,'Winning\nscores', fontdict=inline_label_font, zorder=67)
 
 subplot.axhline(y=0, color=axis_color, lw=1)
 subplot.axvline(x=0, color=axis_color, lw=1)
