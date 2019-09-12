@@ -6,7 +6,7 @@ try:
 except:
 	pass
 #%% [markdown]
-# <a href="https://colab.research.google.com/github/ryanleeallred/DS-Unit-1-Sprint-2-Data-Wrangling-and-Storytelling/blob/master/module4-sequence-your-narrative/LS_DS_124_Sequence_your_narrative.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 #%% [markdown]
 # _Lambda School Data Science_
 # 
