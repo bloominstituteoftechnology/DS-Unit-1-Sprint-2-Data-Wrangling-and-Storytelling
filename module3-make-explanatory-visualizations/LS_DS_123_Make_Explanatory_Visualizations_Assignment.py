@@ -79,7 +79,7 @@ for spine in subplot.spines:
 
 subplot.grid(color=grid_color)
 
-subplot.bar(range(1,11),votes_percent,width=bar_width_rel,color=bar_color)
+subplot.bar(range(1,11),votes_percent,width=bar_width_rel,color=bar_color, zorder=20)
 
 title_font = {'color': title_color,
 			'weight': 700,
@@ -120,8 +120,8 @@ example = Image(url=url, width=400)
 display(example)
 
 #%%
-# Drop zeroxTick values in score columns
-# While it is, technically, possible to score zeroxTick
+# Drop zero values in score columns
+# While it is, technically, possible to score zero
 # It's certainly not the case for > 500,000 games
 import numpy
 df_scrabble['winnerscore'].replace(0,numpy.NaN,inplace=True)
@@ -168,8 +168,8 @@ for spine in subplot.spines:
 subplot.grid(color=grid_color)
 
 bins = range(800)
-subplot.hist(df_scrabble['loserscore'].append(df_scrabble['winnerscore']),bins=bins,color=loser_color)
-subplot.hist(df_scrabble['winnerscore'],bins=bins,color=winner_color)
+subplot.hist(df_scrabble['loserscore'].append(df_scrabble['winnerscore']),bins=bins,color=loser_color, zorder=25)
+subplot.hist(df_scrabble['winnerscore'],bins=bins,color=winner_color, zorder=30)
 #subplot.bar(range(1,11),votes_percent,width=bar_width_rel,color=bar_color)
 
 title_font = {'color': title_color,
@@ -242,3 +242,9 @@ pyplot.show()
 # More Work Here
 
 
+
+
+#%%
+
+
+#%%
