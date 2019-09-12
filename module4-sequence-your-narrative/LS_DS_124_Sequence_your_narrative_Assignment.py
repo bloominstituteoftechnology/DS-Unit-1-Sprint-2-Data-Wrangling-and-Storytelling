@@ -192,7 +192,7 @@ for column in columns:
 	pyplot.ylim(bottom=0)
 
 	pyplot.legend()
-	pyplot.title('Regional variability in '+columns[column]+' between countries over time')
+	pyplot.title('Regional variability in mean '+columns[column]+' between countries over time')
 
 	pyplot.ylabel('Coefficient of variation (%)')
 	pyplot.xlabel('Year')
