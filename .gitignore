@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+# Datasets:
+module1-join-and-reshape-data/instacart*
+
+=======
+>>>>>>> 885ed548bf291b581b7a495db13cde15744981f4
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
