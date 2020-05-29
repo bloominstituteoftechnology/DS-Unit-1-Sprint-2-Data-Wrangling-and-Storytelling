@@ -4,11 +4,15 @@
 
 What do you care about?
 
+AI, startups, effective altruism
 
 What do you know about?
 
+Baseball, kinda startups
 
 What decisions do you face?
+
+Housing, career path
 
 
 ## Seven templates
@@ -19,29 +23,42 @@ Can you apply the templates to your topics?
 
 1. Geographic Variation
 
+How do baseball stats vary in different parks?
+Valuations of Bay Area startups vs other locations over time
 
 2. Trend related to the news
 
+Visualization of the relative value of different cryptocurrencies over time
 
 3. Who does that?
 
+Trends about who founds companies (race, age, gender, educational background, socioeconomic background, etc)
 
 4. Answering a question people care about
 
+How much should you be paying in rent?
+What is the career path with the highest reports of satisfaction?
 
 5. Valuable to businesses
 
 
+
 6. What's the most popular?
+
+What companies get the most Google search traffic?
 
 
 7. Cost/Money rankings
+
+Top paying career paths
+Biggest baseball contracts over time adjusted for inflation
 
 
 ## Misconceptions
 
 What misconceptions do people have about your topic?
 
+Certain popular stats are not very good measures of baseball talent (Wins, Saves, RBIs, Avg, etc)
 
 ## Examples
 
