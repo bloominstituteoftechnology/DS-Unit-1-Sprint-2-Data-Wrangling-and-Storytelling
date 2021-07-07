@@ -1,12 +1,16 @@
 # Ideas for data storytelling
+car preformance
+cancer death rate to population
 
-## You
+#you
 
 What do you care about?
-
+cars preformance
+cancer death rate to population 
 
 What do you know about?
-
+car parts and stats
+us has most cancer deaths
 
 What decisions do you face?
 
@@ -18,25 +22,27 @@ Training Kit (https://learn.lambdaschool.com/ds/module/recedjanlbpqxic2r) explai
 Can you apply the templates to your topics? 
 
 1. Geographic Variation
-
+    cars
+    cancer
 
 2. Trend related to the news
-
+    cancer
+    
 
 3. Who does that?
 
 
 4. Answering a question people care about
-
-
+    cancer
 5. Valuable to businesses
-
+    car
+    cancer
 
 6. What's the most popular?
-
+    car
 
 7. Cost/Money rankings
-
+    cancer
 
 ## Misconceptions
 
